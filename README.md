@@ -3,8 +3,11 @@
 # Backend Engineering Intern Case Study Submission
 
 **Applicant:** Shubham Ganesh Nikumbh
+
 **Date:** July 23, 2025
+
 **Role:** Backend Intern
+
 **Repository:** https://github.com/nikumbhShubham/bynryCaseStudy
 
 ## Table of Contents
